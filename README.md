@@ -2,7 +2,7 @@ Here is a well-structured README for your repository:
 
 ---
 
-# Constante_Mendoza_Saenz
+# Compressor MPI
 
 This repository contains a set of scripts for compressing and decompressing files using a custom algorithm, along with verification and MPI parallelization enhancements.
 
